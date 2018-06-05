@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jean-Pol Pierret pierret@pictit.com
 
 # THANKS
 
