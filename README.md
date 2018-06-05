@@ -12,7 +12,10 @@ As stated above, the purpose is to provide simple examples for Git training demo
 ## Deployment
 
 This is a simple web project, deployment can be any web server or even local file system.
+
 ## How to contribute
+
+Please fork this repository and then issue Pull Resquests for review.
 
 ### Copyright
 2014 Git.Training.
